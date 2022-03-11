@@ -1,0 +1,18 @@
+#logo{
+	width: 50px;
+}
+
+#nome{
+	margin-left: 1%;
+}
+
+body{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: #e0f2f1;
+}
+
+main {
+	flex: 1 0 auto;
+}
